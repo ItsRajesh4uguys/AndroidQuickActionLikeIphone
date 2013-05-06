@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DemoActivity!</string>
+    <string name="app_name">QuickAction Demo</string>
+     <string name="Organizedby">list item 1</string>
+    <string name="Date">list item 2:</string>
+      <string name="Time">list item 3:</string>
+        <string name="Duration">list item 4:</string>
+          <string name="Location">list item 5:</string>
+            <string name="CalAddress">list item 6:</string>
+              <string name="Country">list item 7:</string>
+                <string name="Dialin">list item 8:</string>
+                  <string name="OnlineMeeting">list item 9:</string>
+                   <string name="Contact">list item 10:</string>
+                    <string name="ContactNumber">list item 11:</string>
+  
+</resources>
